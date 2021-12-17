@@ -4,6 +4,8 @@
 
 Please help us on [Product Hunt](https://www.producthunt.com/posts/coreui-open-source-bootstrap-4-admin-template-with-angular-2-react-js-vue-js-support). Thanks in advance!
 
+demo https://ageeb1982.github.io/coreui-free-bootstrap-admin-template/
+
 [![Bootstrap Admin Template](https://coreui.io/images/github/vue-free-template-3.gif)](https://coreui.io/)
 
 Curious why I decided to create CoreUI? Please read this article: [Jack of all trades, master of none. Why Bootstrap Admin Templates suck.](https://medium.com/@lukaszholeczek/jack-of-all-trades-master-of-none-5ea53ef8a1f#.7eqx1bcd8)
